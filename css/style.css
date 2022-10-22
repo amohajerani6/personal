@@ -1,0 +1,136 @@
+body {
+  background-color: #ccfff9;
+  text-align: center;
+}
+
+.top_page_h1 {
+  font-size: 5em;
+  font-family: 'Shalimar', cursive;
+  margin: 10% auto 0 auto;
+
+}
+
+.top_div {
+  display: inline-block;
+  position: relative;
+  padding-top: 100px;
+}
+
+.cloud_img_bottom {
+  position: absolute;
+
+
+}
+
+.cloud_img_top {
+  position: absolute;
+  right: 1%;
+
+
+}
+
+
+.second_div {
+  text-align: center;
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+.profile_pic {
+  border-radius: 50%;
+}
+
+.second_heading {
+
+  color:#7DCEA0;
+  font-family: sans-serif;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.div2_p {
+  width:300px;
+  margin: 0 auto 0 auto;
+}
+
+.div2_hr {
+
+  border: none;
+  border-bottom: dotted;
+  border-width: 0.6em;
+  width: 3%;
+  border-color: grey;
+  padding-top: 20px;
+}
+
+h3 {
+  color: #7DCEA0;
+  padding-top:10px;
+}
+
+.computer {
+
+  float: left;
+  width: 25%;
+  border-radius:50%;
+  margin-right: 20px;
+}
+.hotdog {
+
+  float: right;
+  width: 25%;
+  border-radius:50%;
+  margin-left: 20px;
+}
+.skills {
+  text-align: left;
+  width:500px;
+  margin: auto;
+  line-height: 150%;
+  margin-bottom:40px;
+}
+
+.btn {
+  background: #92e8db;
+  background-image: -webkit-linear-gradient(top, #92e8db, #2980b9);
+  background-image: -moz-linear-gradient(top, #92e8db, #2980b9);
+  background-image: -ms-linear-gradient(top, #92e8db, #2980b9);
+  background-image: -o-linear-gradient(top, #92e8db, #2980b9);
+  background-image: linear-gradient(to bottom, #92e8db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.bottom_div {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.bottom_links {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #7DCEA0;
+  font-size: 1.2em;
+}
+
+.signature_bottom {
+  color:#7DCEA0;
+  padding: 30px;
+}
